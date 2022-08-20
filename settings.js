@@ -33,10 +33,10 @@ global.footer = 'Xynz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
+global.youtube = 'https://youtube.com/channel/UCOXMmo34qqRx1Q64nY3BK5w'
+global.ig = 'https://instagram.com/fhmhxxyz_'
+global.mygc = 'https://chat.whatsapp.com/Lcb6ZIjBDiSHnhkDU19ghW'
+global.myweb = 'https://github.com/xFhriiXyz'
 global.email = 'mcfhrii@gmail.com'
 global.region = 'Isekai'
 
